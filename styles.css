@@ -1,0 +1,20 @@
+.btn:hover {
+    transform: scale(1.05);
+}
+
+.navbar {
+    padding: 1rem;
+}
+
+.jumbotron {
+    border-radius: 0px;
+}
+
+.hero-background-img {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)), url("./image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
